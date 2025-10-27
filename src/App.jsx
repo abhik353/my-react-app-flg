@@ -10,8 +10,8 @@ function App() {
 
   return (
     <>
-      {/* <Counter1/>
-      <Counter2/> */}
+      <Counter1/>
+      <Counter2/>
       <UserProfile userId={1} />
     </>
   )
